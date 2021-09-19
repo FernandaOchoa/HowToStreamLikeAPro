@@ -1,5 +1,12 @@
-# Guía Streaming 
+# How to stream like a Pro #CodigoFEST
 
+![carlo](https://user-images.githubusercontent.com/9124597/133943096-d2c011e7-a91b-45e6-91ba-087ca7d7b92f.jpg)
+
+## Aquí puedes encontrar los slides
+
+[Streaming like a pro.pdf](https://github.com/FernandaOchoa/HowToStreamLikeAPro/files/7192926/Streaming.like.a.pro.pdf)
+
+## Guía Streaming 
 Cómo comenzar a crear contenido vía streaming en diferentes plataformas.
 
 ## Software - Herramientas Digitales
