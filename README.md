@@ -2,6 +2,10 @@
 
 ![carlo](https://user-images.githubusercontent.com/9124597/133943096-d2c011e7-a91b-45e6-91ba-087ca7d7b92f.jpg)
 
+
+## Aquí puedes encontrar la charla
+
+[Link a la charla](https://youtu.be/Z0xhuRIn9bM?t=12073)
 ## Aquí puedes encontrar los slides
 
 [Streaming like a pro.pdf](https://github.com/FernandaOchoa/HowToStreamLikeAPro/files/7192926/Streaming.like.a.pro.pdf)
